@@ -1,1 +1,1 @@
-This is skab's first (actually millionth eheh) git project!
+This is skab's first git project!
